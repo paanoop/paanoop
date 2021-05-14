@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paanoop
 - 👀 I’m interested in flutter, vue
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning flutter-firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me call 9846242351 or email at sripaanop@gmail.com
 
