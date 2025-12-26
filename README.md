@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anoop 
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently expert in Flutter 
 - 💞️ I’m looking to collaborate on Flutter
 
 <!---
